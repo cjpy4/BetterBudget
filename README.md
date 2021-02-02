@@ -1,4 +1,4 @@
-# better_budget
+# BetterBudget
 
 A new Flutter project.
 
